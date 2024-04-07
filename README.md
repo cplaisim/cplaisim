@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cplaisim
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science, machine learning
+- 🌱 I use Python, React and React Native
 - 💞️ I’m looking to collaborate on small business, finance, and real estate
 - 📫 How to reach me c_plaisimond@hotmail.com
 <!---
